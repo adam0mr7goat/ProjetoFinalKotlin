@@ -1,4 +1,4 @@
-# Task Manager (Kotlin) 📝
+# Task Manager (Kotlin) 
 
 A simple command-line app made in Kotlin to manage your daily tasks — add, list, complete, or remove them easily.
 
